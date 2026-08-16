@@ -29,9 +29,26 @@ Commit Buddy vous force à structurer votre message avec la norme **Conventional
 
 ## 🖥️ Installation et utilisation
 
+
+📥 **Installation (application portable – aucune installation requise)**
+
+1. Téléchargez le fichier `.zip`.
+2. Extrayez le contenu du dossier.
+3. Double-cliquez sur `CommitBuddy.exe` pour lancer l'application.
+
+**Aucune bibliothèque ou prérequis supplémentaire n'est nécessaire.**
+L'application fonctionne directement sur Windows 10 et 11.
+
+**💡 Astuce :** Pour un démarrage automatique, placez un raccourci de l'`.exe` dans le dossier `Démarrage` de Windows (`Win + R` → `shell:startup`).
+
+
+
 ### Avec Python (si vous avez le code source)
 
 1. Assurez-vous d'avoir Python installé.
 2. Installez les dépendances :
-   ```bash
+   bash
    pip install pyperclip pystray Pillow
+
+
+ disponible : https://itch.io/dashboard
